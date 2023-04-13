@@ -1,7 +1,7 @@
 # Every-combination (of letters)
 Change the variables inside the options part for a better experience.
 
-### Please don't use this for malicous purposes
+### Please don't use this for malicous purposes.
 
 # Installation
 First, clone the git
